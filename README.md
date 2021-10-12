@@ -1,1 +1,1 @@
-# Fasta2Genbank-
+# Fasta2Genbank
